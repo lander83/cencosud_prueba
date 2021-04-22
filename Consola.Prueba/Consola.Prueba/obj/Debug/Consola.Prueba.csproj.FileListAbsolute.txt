@@ -1,0 +1,10 @@
+C:\prueba\Consola.Prueba\Consola.Prueba\bin\Debug\Consola.Prueba.exe.config
+C:\prueba\Consola.Prueba\Consola.Prueba\bin\Debug\Consola.Prueba.exe
+C:\prueba\Consola.Prueba\Consola.Prueba\bin\Debug\Consola.Prueba.pdb
+C:\prueba\Consola.Prueba\Consola.Prueba\bin\Debug\Newtonsoft.Json.dll
+C:\prueba\Consola.Prueba\Consola.Prueba\bin\Debug\Newtonsoft.Json.xml
+C:\prueba\Consola.Prueba\Consola.Prueba\obj\Debug\Consola.Prueba.csprojAssemblyReference.cache
+C:\prueba\Consola.Prueba\Consola.Prueba\obj\Debug\Consola.Prueba.csproj.CoreCompileInputs.cache
+C:\prueba\Consola.Prueba\Consola.Prueba\obj\Debug\Consola.Prueba.csproj.CopyComplete
+C:\prueba\Consola.Prueba\Consola.Prueba\obj\Debug\Consola.Prueba.exe
+C:\prueba\Consola.Prueba\Consola.Prueba\obj\Debug\Consola.Prueba.pdb

@@ -1,0 +1,11 @@
+{
+	"inputs" : [
+		"Esto es un texto balanceado",
+		"(())",
+		")(Hola",
+		"Esto tambien es un texto balanceado (creo)",
+		"((((((c))))))",
+		"(()))",
+		"(cenco)(sud)"
+	]
+}
